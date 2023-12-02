@@ -11,7 +11,7 @@ to form a single two-digit number. For exaple:
 - TOTAL   ----> 315   
 
 ### Second challenge
-The objective contniue being the same, but now we have to consider the digits and when numbers are expressed with text.
+The objective continue being the same, but now we have to consider the digits and when numbers are expressed with text.
 For example:  
 - two1nine            ----> 29  
 - eightwothree        ----> 83   
