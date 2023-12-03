@@ -42,3 +42,20 @@ For expample:
 - Game 4: 1 green, 3 red, 6 blue; 3 green, 6 red; 3 green, 15 blue, 14 red        ----> 14 red * 3 green * 15 blue = 630
 - Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green                          ----> 6 red * 3 green * 2 blue = 36
 - TOTAL   ---->  48 + 12 + 1560 + 630 + 36 = 2286
+
+## DAY 3
+### First challenge
+After many hours trying this challenge I have copied it from https://github.com/Futarimiti/advent-of-code2023/blob/main/3-gear-rations/main.py .  
+The 'prueba.py' file is my try, it doesn't work.  
+The objective is add all numbers that are adjacent with an special symbols (NOT '.'). For example:  
+- 467..114..
+- ...*......
+- ..35..633.
+- ......#...
+- 617*......
+- .....+.58.
+- ..592.....
+- ......755.
+- ...$.*....
+- .664.598..
+In this schematic, two numbers are not part numbers because they are not adjacent to a symbol: 114 (top right) and 58 (middle right). Every other number is adjacent to a symbol and so is a part number; their sum is 4361.
